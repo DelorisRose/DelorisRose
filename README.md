@@ -2,7 +2,7 @@
 - 👀 I’m interested in herbalism, anime, spiritualism
 - 🌱 I’m currently learning gardening and C#
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me...you don't
+- 📫 How to reach me...N/A
 
 <!---
 DelorisRose/DelorisRose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
